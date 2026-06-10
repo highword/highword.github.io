@@ -2,7 +2,16 @@
 title: k8s学习教程(基础配置)--part 1
 date: 2023-11-05 20:25:42
 cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230115202715679.png
-tags: k8s
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Experience
+  - Computer Science
+  - Development
+  - k8s
+  - Ops
 ---
 # k8s学习教程（一、初始配置）
 

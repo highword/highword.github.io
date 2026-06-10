@@ -2,7 +2,16 @@
 title: k8s初体验---nginx(pod)部署并访问
 date: 2023-11-09 18:26:19
 cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230115202715679.png
-tags: k8s
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Experience
+  - Computer Science
+  - Development
+  - k8s
+  - Ops
 ---
 # k8s初学习---基于k8s部署nginx
 

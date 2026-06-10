@@ -1,9 +1,14 @@
 ---
 title: chatgpt使用教程
 date: 2023-02-12 21:08:21
-img: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230212211052395.png
 cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230212211052395.png
-tags: Guidance
+categories:
+  - Computer Science
+  - AI
+tags:
+  - Handbook
+  - Computer Science
+  - AI
 ---
 # chatGPT使用教程
 ![image-20230212211052395](https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230212211052395.png)

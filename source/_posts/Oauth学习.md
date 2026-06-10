@@ -1,8 +1,16 @@
 ---
-title: Oauth学习
+title: Oauth学习总结
 date: 2023-11-07 09:59:04
-cover: 
+cover: https://mypersonaldata.oss-cn-shanghai.aliyuncs.com/img/202509282131309.png
+categories:
+  - Computer Science
+  - Development
 tags:
+  - Experience
+  - Computer Science
+  - Development
+  - security
+  - network
 ---
 
 

@@ -1,0 +1,85 @@
+---
+title: Python面向对象
+date: 2024-9-27 16:37:40
+cover: https://mypersonaldata.oss-cn-shanghai.aliyuncs.com/img/202509272206116.png
+categories:
+  - Development
+  - Python
+tags:
+  - Computer Science
+  - Note
+  - Development
+  - python
+---
+# Python 面向对象
+- 一切皆对象：所有的数据类型都是对象
+- 对象的主要属性
+    - identity(ID)
+        - 对象在堆中的内存地址
+        - 用id(obj)获取
+    - type
+        - 对象的类型
+        - 用type(obj)获取
+    - value
+        - 对象的值
+        - 用print(obj)获取
+- 对象的存储结构
+    - 变量
+        - Python中变量是指针
+        - 存于栈中
+        - 储存堆中对象的地址
+    - 对象
+        - 本质是一个内存块
+        - 存于堆中
+- 对象类型
+    - 可变对象
+        - 列表
+        - 字典
+        - 集合
+    - 不可变对象
+        -  [元组]("https://mubu.com/app/edit/home/5qdszdTehM0")
+        - 字符串
+        - 数值
+- 对象方法
+    - 静态方法 \@staticmethod
+    - 类方法 \@classmethod
+        - 最少也要包含cls参数绑定类本身
+    - 类实例方法 \普通的方法
+        - 最少也要包含self参数绑定调用自己的对象
+    - 常见方法
+        - super()
+            - 在子类中调用父类的方法
+            - 多继承：super(E, self).funxx()
+        - __new__(cls)
+            - 分配空间，创建一个空对象，相当于java中的new
+        - __init__(self)
+            - 对象创建后，对其进行初始化的方法，相当于构造方法
+        - ___call__(self)
+            - 让对象可以加括号()调用，a = A()
+            - 会先__new__空对象，再传给__init__初始化，最后__call__返回初始化好的对象
+        - __del__()
+            - 析构方法，对象回收
+- 面向对象特性
+    - 浅拷贝、深拷贝
+        - copy.copy()、copy.deepcopy()
+        - deepcopy函数的本质其实就是对象的 **一次序列化** 和 **一次返回序列化**
+    - 私有属性
+        - 方法或属性前加两个下划线__即可变私有
+    - 多重继承
+        - MRO（Method Resolution Order）
+            - Python中用C3 算法计算MRO，采用广度优先搜索
+        - class C(A, B) 大致按照 **先后顺序** 搜索父类方法
+        - 类的整体层次会十分复杂，尽量避免使用
+    - 多态
+        - 一个方法调用由于对象不同其功能也不同
+        - 多态是方法的多态，属性不能多态
+        - 实现：继承，方法重写
+    - 运算符重载
+        - python的运算符是通过调用 **对象的特殊方法** 实现的
+            - a+b 实际上是a.__add__(b)
+        - 每个运算符对应相应的方法
+            - +
+                - __add__
+            - -
+                - __sub__
+        - 在类中重写__add__等特殊方法即可实现重载

@@ -2,7 +2,16 @@
 title: 基于Docker和vsftpd协议搭建FTP服务器
 date: 2023-10-16 16:37:40
 cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230416164142324-16816345069691.png
-tags: Docker
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Handbook
+  - Computer Science
+  - Development
+  - docker
+  - Ops
 ---
 ## FTP内置服务器搭建
 

@@ -1,7 +1,18 @@
 ---
 title: Ubuntu下修改docker默认数据存储路径
 date: 2023-10-30 21:56:29
-tags: Docker
+cover: https://mypersonaldata.oss-cn-shanghai.aliyuncs.com/img/202509282134586.png
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Handbook
+  - Computer Science
+  - Development
+  - docker
+  - linux
+  - Ops
 ---
 # `Ubuntu`下修改Docker默认存储路径
 

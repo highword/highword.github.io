@@ -1,12 +1,16 @@
 ---
-title: 'What I''ve learned in TongJi '
+title: 'What I''ve learned in SHU '
 date: 2023-7-15 21:32:51
-cover: https://picdm.sunbangyan.cn/2023/11/02/4ad31a3e01c20e6138bd8377dace10b1.jpg
-tags: Diary
+cover: https://mypersonaldata.oss-cn-shanghai.aliyuncs.com/img/202509282138624.png
+categories:
+  - Eassy
+tags:
+  - Eassy
+  - Diary
 ---
-# My Journey through Tongji University's Software School
+# My Journey through Shanghai University's Software School
 
-Studying at Tongji University's Software School has been an expedition of growth, challenges, and memorable moments. As I look back, each course has shaped my perspective, skillset, and passion for software engineering.
+Studying at Shanghai University's Computer School has been an expedition of growth, challenges, and memorable moments. As I look back, each course has shaped my perspective, skillset, and passion for software engineering.
 
 ## High-Level Language Programming 1
 
@@ -38,6 +42,6 @@ The culmination of my journey, this course amalgamated everything I had learned.
 
 ## In Conclusion
 
-Tongji's Software School has been more than just a series of courses. It has been a journey of transformation, turning my passion into expertise. The challenges, the late-night study sessions, the projects, and the camaraderie with classmates have made this an unforgettable chapter of my life.
+SHU's Computer School has been more than just a series of courses. It has been a journey of transformation, turning my passion into expertise. The challenges, the late-night study sessions, the projects, and the camaraderie with classmates have made this an unforgettable chapter of my life.
 
-Looking forward, I'm filled with gratitude for the foundation Tongji has provided and excitement for the future of software engineering that lies ahead.
+Looking forward, I'm filled with gratitude for the foundation SHU has provided and excitement for the future of software engineering that lies ahead.

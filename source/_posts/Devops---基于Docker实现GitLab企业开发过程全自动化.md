@@ -1,8 +1,18 @@
 ---
 title: Devops---基于Docker实现GitLab企业开发过程全自动化
 date: 2023-11-04 20:48:41
-Cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230404213900259.png
-tags: Devops
+cover: https://mypersonaldata.oss-cn-shanghai.aliyuncs.com/img/202509282133057.png
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Handbook
+  - Computer Science
+  - Development
+  - docker
+  - DevOps
+  - Ops
 
 ---
 # Devops---基于Docker实现GitLab企业开发过程全自动化

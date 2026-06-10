@@ -1,7 +1,12 @@
 ---
 title: Reflections on GPT and the Future
 date: 2023-3-05 20:30:21
-tags: Diary
+categories:
+  - Eassy
+tags:
+  - Eassy
+  - Diary
+  - AI
 ---
 # Reflections on GPT and the Future
 

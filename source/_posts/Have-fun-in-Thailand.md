@@ -2,7 +2,11 @@
 title: Have fun in Thailand!!!
 date: 2023-10-10 17:30:57
 cover: https://picst.sunbangyan.cn/2023/11/02/5dfb8d84de17c4bc3eee4a7faf75c1af.jpg
-tags: Travel
+categories:
+  - Eassy
+tags:
+  - Eassy
+  - travel
 ---
 # Phuket Diaries: Pools, Plates, and Motorbikes
 

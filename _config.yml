@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Gao's Galaxy
+title: Gu's Galaxy
 subtitle: ''
 description: ''
 keywords:
-author: Jensen Gao
+author: Quasar Gu
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://MayDay7he5hy.github.io
+url: https://highword.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/MayDay7he5hy/MayDay7he5hy.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://github.com/highword/highword.github.io.git
   branch: main

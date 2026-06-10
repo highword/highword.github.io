@@ -2,7 +2,16 @@
 title: frp内网穿透教程
 date: 2023-10-18 10:44:41
 cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230218213701529.png
-tags: Guidance
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Handbook
+  - Computer Science
+  - Development
+  - network
+  - Ops
 ---
 
 

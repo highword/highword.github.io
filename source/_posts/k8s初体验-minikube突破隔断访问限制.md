@@ -2,8 +2,16 @@
 title: k8s初体验-minikube突破隔断访问限制(以nginx为例)
 date: 2023-11-10 09:08:25
 cover: https://luckyblob.oss-cn-shanghai.aliyuncs.com/postimgs/image-20230310101006602.png
-tags: k8s
-top: true
+categories:
+  - Computer Science
+  - Development
+  - Operations
+tags:
+  - Experience
+  - Computer Science
+  - Development
+  - k8s
+  - Ops
 ---
 # minikube部署对外访问配置
 
