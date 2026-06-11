@@ -69,11 +69,37 @@
 
 ## Traceability
 
-*(Filled by roadmap — maps each requirement to a phase)*
-
-| REQ-ID | Phase |
-|--------|-------|
-| — | — |
+| REQ-ID | Phase | Status |
+|--------|-------|--------|
+| GIT-03 | 1 | Pending |
+| UX-01 | 1 | Pending |
+| UX-02 | 1 | Pending |
+| BLOG-01 | 2 | Pending |
+| BLOG-02 | 2 | Pending |
+| BLOG-03 | 2 | Pending |
+| BLOG-04 | 2 | Pending |
+| BLOG-05 | 2 | Pending |
+| BLOG-06 | 2 | Pending |
+| BLOG-07 | 2 | Pending |
+| GIT-01 | 3 | Pending |
+| GIT-02 | 3 | Pending |
+| GIT-04 | 3 | Pending |
+| GIT-05 | 3 | Pending |
+| GIT-06 | 3 | Pending |
+| BLOG-08 | 3 | Pending |
+| BLOG-09 | 3 | Pending |
+| UX-03 | 3 | Pending |
+| KB-01 | 4 | Pending |
+| KB-02 | 4 | Pending |
+| KB-03 | 4 | Pending |
+| KB-04 | 4 | Pending |
+| AI-01 | 5 | Pending |
+| AI-02 | 5 | Pending |
+| AI-03 | 5 | Pending |
+| AI-04 | 5 | Pending |
+| AI-05 | 5 | Pending |
+| BLOG-10 | 5 | Pending |
+| MCP-01 | 6 | Pending |
 
 ---
 *Generated: 2026-06-12*

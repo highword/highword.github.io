@@ -2,32 +2,40 @@
 
 ## Project Reference
 
-See: .planning/PROJECT.md (updated 2026-06-11)
+See: .planning/PROJECT.md (updated 2026-06-12)
 
 **Core value:** 非技术用户零门槛创建并发布博文
-**Current focus:** Project initialization — research phase (paused)
+**Current focus:** Phase 1 — Foundation & Authentication
 
 ## Current Phase
 
-**Status:** RESEARCHING (paused)
-**Next step:** Complete research (4 parallel researchers: Stack, Features, Architecture, Pitfalls), then define requirements and create roadmap.
+**Phase:** 1 of 6
+**Status:** READY TO PLAN
+**Next step:** /gsd-discuss-phase 1
 
 ## Progress
 
-| Step | Status |
-|------|--------|
-| Codebase mapping | ✓ Done |
-| Deep questioning | ✓ Done |
-| PROJECT.md | ✓ Committed |
-| config.json | ✓ Committed |
-| Research | ⏸ Paused (agents were spawned but not yet complete) |
-| Requirements | Pending |
-| Roadmap | Pending |
+| Phase | Name | Status |
+|-------|------|--------|
+| 1 | Foundation & Authentication | Ready |
+| 2 | Editor & Post Management | Pending |
+| 3 | Git Pipeline & Deployment | Pending |
+| 4 | Knowledge Base | Pending |
+| 5 | AI Integration | Pending |
+| 6 | MCP Server & Packaging | Pending |
 
-## Resume Instructions
+## Accumulated Context
 
-Run `/gsd-new-project` — it will detect existing PROJECT.md and config.json.
-Or manually: spawn 4 research agents (Stack, Features, Architecture, Pitfalls) per the workflow, then continue with requirements → roadmap.
+### Key Decisions
+- Stack: React 19 + Vite 8 + Tauri 2 + isomorphic-git + Milkdown Crepe + Vercel AI SDK
+- SQLite 仅作为缓存，Git 文件是唯一 source of truth
+- Web-first 开发，桌面封装延后至 Phase 6
+
+### Blockers
+*(none)*
+
+### TODOs
+*(none)*
 
 ---
-*Last updated: 2026-06-11 after research pause*
+*Last updated: 2026-06-12 after roadmap creation*
